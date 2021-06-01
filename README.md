@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pemawangdue
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python Programming
 - 📫 How to reach me ngapemawangdue@gmail.com
 
 <!---
